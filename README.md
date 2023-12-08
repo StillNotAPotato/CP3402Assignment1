@@ -1,6 +1,6 @@
 # CP3402 Assignment 1
-#Name: Tan Beng Siang
-#StudentID: 14276461
+# Name: Tan Beng Siang
+# StudentID: 14276461
 --------------------------------------------------------------------------------------------------------------------------------
 # Assignment Description
 
