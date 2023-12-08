@@ -44,8 +44,7 @@ Attached below is a screenshot of the sitemap proposed during the ideation stage
 This assignment has shown me that creating a website for a business is not as easy as it seems. It involves a great deal of planning as well as resource allocation (money, in my case). Furthermore, since I used AWS Lightsail and Route 53 for this assignment, I have become more familiar with using AWS's services, which are also extensively used in the industry. This assignment has also shown me that studying and working at the same time is incredibly difficult, as it has been greatly challenging to allocate enough time to meet school obligations and work.
 
 # Website Links
-* Joomla: [jm.steamedpotato.com	](https://jm.steamedpotato.com/)
-* WordPress: [wp.steamedpotato.com	](https://wp.steamedpotato.com/)https://wp.steamedpotato.com/
-
+* Joomla: [jm.steamedpotato.com](https://jm.steamedpotato.com/)
+* WordPress: [wp.steamedpotato.com](https://wp.steamedpotato.com/)
 
 
