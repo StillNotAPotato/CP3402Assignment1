@@ -29,6 +29,7 @@ I moved on to trying out the installation of a free template on Joomla. The size
 Another issue that I encountered was trying to obtain SSL certification for my websites. Using Lightsail's browser client to enable HTTPS on both of my instances (WordPress and Joomla) proved challenging as I continued to get an error message saying that the configuration tool could not resolve the domain I had entered. Eventually, upon referring to forums as well as double checking my domain setup, I realised that I had in fact, not set up my domain correctly. The fix for this issue was simple, which was to simply register and buy a domain on AWS Route 53. Upon validating my account and purchase, the domain was up and running and I was able to enable HTTPS on both instances.
 
 Attached below are my references:
+
 https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-enabling-https-on-wordpress#https-wordpress-enable
 https://stackoverflow.com/questions/59745340/unable-to-create-certificate-for-my-aws-bitnami-wordpress-website
 https://joshhall.co/how-to-make-a-non-clickable-menu-item-in-wordpress/
@@ -45,5 +46,6 @@ This assignment has shown me that creating a website for a business is not as ea
 # Website Links
 * Joomla: jm.steamedpotato.com	
 * WordPress: wp.steamedpotato.com	
+
 
 
